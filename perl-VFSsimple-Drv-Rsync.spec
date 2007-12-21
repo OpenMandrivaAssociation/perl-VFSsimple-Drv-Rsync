@@ -17,6 +17,7 @@ BuildRequires:  rsync
 BuildRequires:  perl(VFSsimple)
 BuildArch: noarch
 
+Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This module provide access method for VFSsimple module to access to file
