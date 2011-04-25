@@ -1,7 +1,7 @@
 %define module	VFSsimple-Drv-Rsync
 %define name	perl-%{module}
 %define version	0.03
-%define release	%mkrel 5
+%define release	%mkrel 6
 
 Summary:	A VFSsimple implementation over rsync protocol
 Name:		%{name}
