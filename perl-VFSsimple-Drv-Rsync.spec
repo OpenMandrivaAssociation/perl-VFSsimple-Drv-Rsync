@@ -3,7 +3,7 @@
 Summary:	A VFSsimple implementation over rsync protocol
 Name:		perl-%{module}
 Version:	0.03
-Release:	7
+Release:	8
 License:	WTFPL
 Group:		Development/Perl
 URL:		http://nanardon.zarb.org/darcsweb/darcsweb.cgi?r=VFSsimple;a=summary
