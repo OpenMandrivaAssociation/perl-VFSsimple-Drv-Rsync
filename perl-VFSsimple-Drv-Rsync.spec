@@ -6,7 +6,7 @@ Version:	0.03
 Release:	9
 License:	WTFPL
 Group:		Development/Perl
-URL:		http://nanardon.zarb.org/darcsweb/darcsweb.cgi?r=VFSsimple;a=summary
+URL:		https://nanardon.zarb.org/darcsweb/darcsweb.cgi?r=VFSsimple;a=summary
 Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/DBI/%{module}-%{version}.tar.gz
 
 BuildRequires:	perl-devel
